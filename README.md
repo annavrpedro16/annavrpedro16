@@ -109,7 +109,7 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 
 <img src="./assets/divisor.svg" width="100%"/>
 
-<h2 align="center"><i>Campo de Girassóis</i></h2>
+<h2 align="center"><i>Campo de atividades</i></h2>
 <p align="center"><sub>CONTRIBUIÇÕES</sub></p>
 
 <p align="center">
