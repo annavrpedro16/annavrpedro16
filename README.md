@@ -96,7 +96,7 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 
 <img src="./assets/divisor.svg" width="100%"/>
 
-<h2 align="center"><i>Noite Estrelada de Commits</i></h2>
+<h2 align="center"><i>Área de Commits</i></h2>
 <p align="center"><sub>ESTATÍSTICAS</sub></p>
 
 <p align="center">
