@@ -19,7 +19,7 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/obras.svg" width="88%" alt="Três obras em molduras douradas: I · Os Girassóis, II · Amendoeira em Flor, III · A Vinha Vermelha"/>
+  <img src="./assets/obras.svg" width="88%" alt="Três obras em molduras douradas: I · Still Life, II · Almond Blossom, III · Red Vineyards at Arles"/>
 </p>
 <p align="center"><sub>A COLEÇÃO &nbsp;·&nbsp; TRÊS OBRAS PINTADAS PINCELADA POR PINCELADA</sub></p>
 
@@ -33,7 +33,7 @@
 
 Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma pincelada, cada componente como parte de uma composição maior.
 
-- **Atualmente:** [nome do projeto]
+- **Atualmente:** [OnTrack]
 - **Estudando:** [Engenheira da Computação Inatel e Membro da CP2eJr]
 - **Interesses:** [Front-end | Mobile | Data Science | Data Analytics / BI | Machine Learning / IA | Marketing]
 - **Aberta a:** projetos criativos e open source
@@ -53,8 +53,8 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 <p align="center"><sub>ESTATÍSTICAS</sub></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&locale=pt-br&border_radius=4&bg_color=14307a&border_color=b07a22&title_color=f6d55c&text_color=e9efe0&icon_color=e7b53c&ring_color=f6d55c" alt="estatísticas"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&locale=pt-br&border_radius=4&bg_color=14307a&border_color=b07a22&title_color=f6d55c&text_color=e9efe0" alt="linguagens"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=annavrpedro16&show_icons=true&locale=pt-br&border_radius=4&bg_color=14307a&border_color=b07a22&title_color=f6d55c&text_color=e9efe0&icon_color=e7b53c&ring_color=f6d55c" alt="estatísticas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annavrpedro16&layout=compact&locale=pt-br&border_radius=4&bg_color=14307a&border_color=b07a22&title_color=f6d55c&text_color=e9efe0" alt="linguagens"/>
 </p>
 
 <p align="center">
@@ -67,11 +67,11 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 <p align="center"><sub>CONTRIBUIÇÕES</sub></p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=14307a&color=e9efe0&line=f6d55c&point=e39a2c&area=true&area_color=e7b53c&hide_border=true&radius=4&custom_title=Colheita%20de%20contribui%C3%A7%C3%B5es" alt="gráfico de atividade"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=annavrpedro16&bg_color=14307a&color=e9efe0&line=f6d55c&point=e39a2c&area=true&area_color=e7b53c&hide_border=true&radius=4&custom_title=Colheita%20de%20contribui%C3%A7%C3%B5es" alt="gráfico de atividade"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/campo.svg" alt="campo de contribuições"/>
+  <img width="100%" src="https://raw.githubusercontent.com/annavrpedro16/annavrpedro16/output/campo.svg" alt="campo de contribuições"/>
 </p>
 
 <img src="./assets/divisor.svg" width="100%"/>
