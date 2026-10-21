@@ -125,7 +125,7 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 
 <p align="center">
   <i>“Quanto a mim, declaro que não sei nada sobre isso. Mas a visão das estrelas sempre me faz sonhar, da mesma maneira simples que me fazem sonhar os pontos pretos que representam cidades e vilarejos no mapa.”</i><br/>
-  <sub>Vincent van Gogh</sub>
+  <sub>VINCENT VAN GOGH</sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14307a,55:2452ad,100:e7b53c&height=110&section=footer" width="100%"/>
