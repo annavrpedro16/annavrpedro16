@@ -29,10 +29,10 @@
 <h2 align="center"><i>Autorretrato</i></h2>
 <p align="center"><sub>SOBRE MIM</sub></p>
 
-> **Anna Vitória Rosa Pedro** · desenvolvedora<br/>
-> *Óleo sobre teclado, técnica mista: curiosidade, método e muitas linhas de código.*
+> **Anna Vitória Rosa Pedro** .<br/>
+> *> *Óleo sobre teclado, técnica mista: curiosidade, método e muitas linhas de código.**
 
-Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma pincelada, cada componente como parte de uma composição maior.
+Gosto de transformar ideias em produtos que as pessoas entendem de primeira. No front-end, cuido de cada detalhe da interface; nos dados, aprendo a fazer as perguntas certas antes de escrever qualquer linha. Acredito que tecnologia boa é aquela que parece simples para quem usa.
 
 - **Atualmente:** OnTrack
 - **Estudando:** Engenharia da Computação no Inatel · membro da CP2eJr
