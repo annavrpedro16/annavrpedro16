@@ -13,6 +13,8 @@
   <a href="https://www.linkedin.com/in/annavrpedro"><img src="https://img.shields.io/badge/LinkedIn-14307A?style=flat-square&logo=linkedin&logoColor=F6D55C"/></a>
   <a href="https://instagram.com/annavrpedro0816/"><img src="https://img.shields.io/badge/Instagram-1F7F86?style=flat-square&logo=instagram&logoColor=F7F2DC"/></a>
   <a href="mailto:annavrpedro@gmail.com"><img src="https://img.shields.io/badge/E--mail-E7B53C?style=flat-square&logo=gmail&logoColor=14307A"/></a>
+  <!-- Portfólio: por enquanto leva aos seus repositórios. Quando o site estiver pronto, troque o link abaixo pelo endereço dele. -->
+  <a href="https://github.com/annavrpedro16?tab=repositories"><img src="https://img.shields.io/badge/Portf%C3%B3lio-B07A22?style=flat-square&logo=googlechrome&logoColor=FFFFFF"/></a>
 </p>
 
 <br/>
@@ -59,11 +61,16 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
   <img src="https://img.shields.io/badge/TypeScript-14307A?style=for-the-badge&logo=typescript&logoColor=F6D55C" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-14307A?style=for-the-badge&logo=html5&logoColor=F6D55C" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS-14307A?style=for-the-badge&logo=css&logoColor=F6D55C" alt="CSS"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-14307A?style=for-the-badge&logo=cplusplus&logoColor=F6D55C" alt="C++"/>
+  <img src="https://img.shields.io/badge/SVG-14307A?style=for-the-badge&logo=svg&logoColor=F6D55C" alt="SVG"/>
+  <img src="https://img.shields.io/badge/YAML-14307A?style=for-the-badge&logo=yaml&logoColor=F6D55C" alt="YAML"/>
 </p>
 
 <p align="center"><sub>FRONT-END E BACK-END</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-14307A?style=for-the-badge&logo=react&logoColor=F6D55C" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-14307A?style=for-the-badge&logo=nextdotjs&logoColor=F6D55C" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-14307A?style=for-the-badge&logo=tailwindcss&logoColor=F6D55C" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Node.js-14307A?style=for-the-badge&logo=nodedotjs&logoColor=F6D55C" alt="Node.js"/>
 </p>
 
@@ -72,12 +79,12 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
   <img src="https://img.shields.io/badge/Figma-14307A?style=for-the-badge&logo=figma&logoColor=F6D55C" alt="Figma"/>
   <img src="https://img.shields.io/badge/Git-14307A?style=for-the-badge&logo=git&logoColor=F6D55C" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-14307A?style=for-the-badge&logo=github&logoColor=F6D55C" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-14307A?style=for-the-badge&logo=vscode&logoColor=F6D55C" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/VS%20Code-14307A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y2RDU1QyIgZD0iTTIzLjE1IDIuNTg3IDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGExIDEgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFhMSAxIDAgMCAwLS4wMDEgMS40NzlMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YTEgMSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OSAxLjQ5IDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4eiIvPjwvc3ZnPg%3D%3D" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-14307A?style=for-the-badge&logo=linux&logoColor=F6D55C" alt="Linux"/>
 </p>
 
 <!--
   PRONTAS PARA USAR: tire do comentário as que você usa (mova a linha para dentro de um bloco acima).
-  <img src="https://img.shields.io/badge/C%2B%2B-14307A?style=for-the-badge&logo=cplusplus&logoColor=F6D55C" alt="C++"/>
   <img src="https://img.shields.io/badge/Pandas-14307A?style=for-the-badge&logo=pandas&logoColor=F6D55C" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-14307A?style=for-the-badge&logo=numpy&logoColor=F6D55C" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Jupyter-14307A?style=for-the-badge&logo=jupyter&logoColor=F6D55C" alt="Jupyter"/>
@@ -109,7 +116,7 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 <p align="center"><sub>CONTRIBUIÇÕES</sub></p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annavrpedro16&theme=tokyonight" alt="contribuições no último ano"/>
+  <img width="100%" src="https://raw.githubusercontent.com/annavrpedro16/annavrpedro16/output/grafico.svg" alt="contribuições no último ano"/>
 </p>
 
 <p align="center">
