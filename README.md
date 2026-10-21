@@ -64,7 +64,6 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 <p align="center"><sub>FRONT-END E BACK-END</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-14307A?style=for-the-badge&logo=react&logoColor=F6D55C" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-14307A?style=for-the-badge&logo=nextdotjs&logoColor=F6D55C" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-14307A?style=for-the-badge&logo=nodedotjs&logoColor=F6D55C" alt="Node.js"/>
 </p>
 
