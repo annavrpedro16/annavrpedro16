@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&style=italic&weight=500&size=22&duration=4000&pause=1200&color=E7B53C&center=true&vCenter=true&width=700&lines=Desenvolvedora+%C2%B7+interfaces+com+alma+de+pintura;Cada+commit+%C3%A9+uma+pincelada;Est%C3%A9tica%2C+clareza+e+aten%C3%A7%C3%A3o+aos+detalhes" alt="Desenvolvedora · interfaces com alma de pintura"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&style=italic&weight=500&size=22&duration=4000&pause=1200&color=E7B53C&center=true&vCenter=true&width=700&lines=Desenvolvedora+%C2%B7+interfaces+com+alma+de+pintura;Cada+commit+%C3%A9+uma+pincelada;Est%C3%A9tica%2C+clareza+e+aten%C3%A7%C3%A3o+aos+detalhes" alt="Desenvolvedora · Interfaces . Projetos"/>
 </p>
 
 <p align="center">
@@ -37,8 +37,7 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 - **Atualmente:** OnTrack
 - **Estudando:** Engenharia da Computação no Inatel · membro da CP2eJr
 - **Interesses:** Front-end · Mobile · Data Science · Data Analytics / BI · Machine Learning / IA · Marketing
-- **Aberta a:** projetos criativos e open source
-
+- **Aberta a:** Projetos de qualquer tipo
 <img src="./assets/divisor.svg" width="100%"/>
 
 <h2 align="center"><i>A Paleta</i></h2>
