@@ -58,9 +58,6 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14307A?style=for-the-badge&logo=python&logoColor=F6D55C" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-14307A?style=for-the-badge&logo=javascript&logoColor=F6D55C" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-14307A?style=for-the-badge&logo=typescript&logoColor=F6D55C" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-14307A?style=for-the-badge&logo=html5&logoColor=F6D55C" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS-14307A?style=for-the-badge&logo=css&logoColor=F6D55C" alt="CSS"/>
   <img src="https://img.shields.io/badge/C%2B%2B-14307A?style=for-the-badge&logo=cplusplus&logoColor=F6D55C" alt="C++"/>
   <img src="https://img.shields.io/badge/SVG-14307A?style=for-the-badge&logo=svg&logoColor=F6D55C" alt="SVG"/>
   <img src="https://img.shields.io/badge/YAML-14307A?style=for-the-badge&logo=yaml&logoColor=F6D55C" alt="YAML"/>
@@ -69,9 +66,11 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 <p align="center"><sub>FRONT-END E BACK-END</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-14307A?style=for-the-badge&logo=react&logoColor=F6D55C" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-14307A?style=for-the-badge&logo=nextdotjs&logoColor=F6D55C" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-14307A?style=for-the-badge&logo=tailwindcss&logoColor=F6D55C" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-14307A?style=for-the-badge&logo=html5&logoColor=F6D55C" alt="HTML5"/>  
+  <img src="https://img.shields.io/badge/CSS-14307A?style=for-the-badge&logo=css&logoColor=F6D55C" alt="CSS"/>
+  <img src="https://img.shields.io/badge/TypeScript-14307A?style=for-the-badge&logo=typescript&logoColor=F6D55C" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Node.js-14307A?style=for-the-badge&logo=nodedotjs&logoColor=F6D55C" alt="Node.js"/>
+  
 </p>
 
 <p align="center"><sub>FERRAMENTAS</sub></p>
@@ -80,7 +79,6 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
   <img src="https://img.shields.io/badge/Git-14307A?style=for-the-badge&logo=git&logoColor=F6D55C" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-14307A?style=for-the-badge&logo=github&logoColor=F6D55C" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-14307A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y2RDU1QyIgZD0iTTIzLjE1IDIuNTg3IDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGExIDEgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFhMSAxIDAgMCAwLS4wMDEgMS40NzlMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YTEgMSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OSAxLjQ5IDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4eiIvPjwvc3ZnPg%3D%3D" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-14307A?style=for-the-badge&logo=linux&logoColor=F6D55C" alt="Linux"/>
 </p>
 
 <!--
