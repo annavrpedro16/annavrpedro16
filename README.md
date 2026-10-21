@@ -124,8 +124,8 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 <img src="./assets/divisor.svg" width="100%"/>
 
 <p align="center">
-  <i>“Código também é uma forma de pintar.”</i><br/>
-  <sub>ANNA</sub>
+  <i>“Quanto a mim, declaro que não sei nada sobre isso. Mas a visão das estrelas sempre me faz sonhar, da mesma maneira simples que me fazem sonhar os pontos pretos que representam cidades e vilarejos no mapa.”</i><br/>
+  <sub>Vincent van Gogh</sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14307a,55:2452ad,100:e7b53c&height=110&section=footer" width="100%"/>
