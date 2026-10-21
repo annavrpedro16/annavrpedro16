@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&style=italic&weight=500&size=22&duration=4000&pause=1200&color=E7B53C&center=true&vCenter=true&width=700&lines=Desenvolvedora+%C2%B7+Interfaces+Projetos;Cada+commit+%C3%A9+uma+pincelada;Est%C3%A9tica%2C+clareza+e+aten%C3%A7%C3%A3o+aos+detalhes" alt="Desenvolvedora · Interfaces . Projetos"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&style=italic&weight=500&size=22&duration=4000&pause=1200&color=E7B53C&center=true&vCenter=true&width=700&lines=Desenvolvedora+%C2%B7+Interfaces+%C2%B7+Projetos;Cada+commit+%C3%A9+uma+pincelada;Est%C3%A9tica%2C+clareza+e+aten%C3%A7%C3%A3o+aos+detalhes" alt="Desenvolvedora · Interfaces . Projetos"/>
 </p>
 
 <p align="center">
