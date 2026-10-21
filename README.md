@@ -40,7 +40,7 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 - **Aberta a:** Projetos de qualquer tipo
 <img src="./assets/divisor.svg" width="100%"/>
 
-<h2 align="center"><i>A Paleta</i></h2>
+<h2 align="center"><i>A Paleta de Linguagens</i></h2>
 <p align="center"><sub>FERRAMENTAS E TECNOLOGIAS</sub></p>
 
 <!--
