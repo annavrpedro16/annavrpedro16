@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/annavrpedro"><img src="https://img.shields.io/badge/LinkedIn-14307A?style=flat-square&logo=linkedin&logoColor=F6D55C"/></a>
   <a href="https://instagram.com/annavrpedro0816/"><img src="https://img.shields.io/badge/Instagram-1F7F86?style=flat-square&logo=instagram&logoColor=F7F2DC"/></a>
   <a href="mailto:annavrpedro@gmail.com"><img src="https://img.shields.io/badge/E--mail-E7B53C?style=flat-square&logo=gmail&logoColor=14307A"/></a>
-  <!-- Portfólio: por enquanto leva aos seus repositórios. Quando o site estiver pronto, troque o link abaixo pelo endereço dele. -->
+  <!-- Portfólio: por enquanto leva aos seus repositórios. Quando o site estiver pronto, troco o link abaixo pelo endereço dele. -->
   <a href="https://github.com/annavrpedro16?tab=repositories"><img src="https://img.shields.io/badge/Portf%C3%B3lio-B07A22?style=flat-square&logo=googlechrome&logoColor=FFFFFF"/></a>
 </p>
 
@@ -43,16 +43,6 @@ Gosto de transformar ideias em produtos que as pessoas entendem de primeira. No 
 <h2 align="center"><i>A Paleta de Linguagens</i></h2>
 <p align="center"><sub>FERRAMENTAS E TECNOLOGIAS</sub></p>
 
-<!--
-  COMO EDITAR A PALETA
-  Cada tecnologia é uma linha <img .../>.
-  · Para remover: apague a linha inteira.
-  · Para adicionar: copie uma linha e troque duas coisas:
-      1. o nome que aparece no selo, logo depois de /badge/ (use %20 no lugar de espaço);
-      2. o logo, depois de logo= (o nome do logo está em https://simpleicons.org).
-  · Para criar uma categoria nova, copie um bloco inteiro (o <sub> e o <p> de baixo).
--->
-
 <p align="center"><sub>LINGUAGENS</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14307A?style=for-the-badge&logo=python&logoColor=F6D55C" alt="Python"/>
@@ -79,15 +69,6 @@ Gosto de transformar ideias em produtos que as pessoas entendem de primeira. No 
   <img src="https://img.shields.io/badge/GitHub-14307A?style=for-the-badge&logo=github&logoColor=F6D55C" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-14307A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y2RDU1QyIgZD0iTTIzLjE1IDIuNTg3IDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGExIDEgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFhMSAxIDAgMCAwLS4wMDEgMS40NzlMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YTEgMSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OSAxLjQ5IDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4eiIvPjwvc3ZnPg%3D%3D" alt="VS Code"/>
 </p>
-
-<!--
-  PRONTAS PARA USAR: tire do comentário as que você usa (mova a linha para dentro de um bloco acima).
-  <img src="https://img.shields.io/badge/Pandas-14307A?style=for-the-badge&logo=pandas&logoColor=F6D55C" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-14307A?style=for-the-badge&logo=numpy&logoColor=F6D55C" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-14307A?style=for-the-badge&logo=jupyter&logoColor=F6D55C" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/MySQL-14307A?style=for-the-badge&logo=mysql&logoColor=F6D55C" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Power%20BI-14307A?style=for-the-badge" alt="Power BI"/>
--->
 
 <p align="center"><sub>LINGUAGENS MAIS USADAS NOS MEUS REPOSITÓRIOS</sub></p>
 <p align="center">
