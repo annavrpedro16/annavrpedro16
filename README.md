@@ -37,7 +37,7 @@ Gosto de transformar ideias em produtos que as pessoas entendem de primeira. No 
 - **Atualmente:** OnTrack
 - **Estudando:** Engenharia da Computação no Inatel · membro da CP2eJr
 - **Interesses:** Front-end · Mobile · Data Science · Data Analytics / BI · Machine Learning / IA · Marketing
-- **Aberta a:** Projetos de qualquer tipo
+- **Aberta a:** Projetos de front-end que me desafiem 
 <img src="./assets/divisor.svg" width="100%"/>
 
 <h2 align="center"><i>A Paleta de Linguagens</i></h2>
