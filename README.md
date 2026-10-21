@@ -32,7 +32,7 @@
 > **Anna Vitória Rosa Pedro**.<br/>
 > *> *Desenvolvedora front-end, curiosa por dados e por tudo o que existe entre o design e o código.**
 
-Gosto de transformar ideias em produtos que as pessoas entendem de primeira. No front-end, cuido de cada detalhe da interface; nos dados, aprendo a fazer as perguntas certas antes de escrever qualquer linha. Acredito que tecnologia boa é aquela que parece simples para quem usa.
+Gosto de transformar ideias em produtos que as pessoas entendem de primeira. No front-end, cuido de cada detalhe da interface; nos dados, aprendo a fazer as perguntas certas antes de escrever qualquer linha. Acredito que tecnologia boa é uma das maiores obras primas da humanindade.
 
 - **Atualmente:** OnTrack
 - **Estudando:** Engenharia da Computação no Inatel · membro da CP2eJr
