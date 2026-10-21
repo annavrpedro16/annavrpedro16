@@ -14,8 +14,7 @@ jobs:
   gerar:
     runs-on: ubuntu-latest
     steps:
-      # 1. Gráfico das contribuições do último ano, desenhado com as cores do tema.
-      #    Troque TEMA para "roxo" ou "vangogh" se mudar de tema.
+    
       - name: Gráfico de contribuições
         uses: actions/github-script@v7
         env:
@@ -100,14 +99,12 @@ jobs:
             fs.mkdirSync('dist', { recursive: true });
             fs.writeFileSync('dist/grafico.svg', svg);
 
-      # 2. Animação que percorre os quadradinhos de contribuição.
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/campo.svg?palette=github-dark&color_snake=#f7f2dc&color_background=#14307a&color_dots=#1b3f96,#3f74cf,#a9c4ec,#e7b53c,#f6d55c
 
-      # 3. Publica as duas imagens no ramo "output", de onde o README as lê.
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
