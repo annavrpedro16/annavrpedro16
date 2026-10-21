@@ -65,7 +65,6 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 <p align="center">
   <img src="https://img.shields.io/badge/React-14307A?style=for-the-badge&logo=react&logoColor=F6D55C" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-14307A?style=for-the-badge&logo=nextdotjs&logoColor=F6D55C" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-14307A?style=for-the-badge&logo=tailwindcss&logoColor=F6D55C" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Node.js-14307A?style=for-the-badge&logo=nodedotjs&logoColor=F6D55C" alt="Node.js"/>
 </p>
 
@@ -74,8 +73,7 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
   <img src="https://img.shields.io/badge/Figma-14307A?style=for-the-badge&logo=figma&logoColor=F6D55C" alt="Figma"/>
   <img src="https://img.shields.io/badge/Git-14307A?style=for-the-badge&logo=git&logoColor=F6D55C" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-14307A?style=for-the-badge&logo=github&logoColor=F6D55C" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-14307A?style=for-the-badge" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-14307A?style=for-the-badge&logo=linux&logoColor=F6D55C" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS%20Code-14307A?style=for-the-badge&logo=vscode&logoColor=F6D55C" alt="VS Code"/>
 </p>
 
 <!--
