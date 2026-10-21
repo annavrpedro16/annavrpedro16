@@ -30,7 +30,7 @@
 <p align="center"><sub>SOBRE MIM</sub></p>
 
 > **Anna Vitória Rosa Pedro**.<br/>
-> *> *Óleo sobre teclado, técnica mista: curiosidade, método e muitas linhas de código.**
+> *> *Desenvolvedora front-end, curiosa por dados e por tudo o que existe entre o design e o código.**
 
 Gosto de transformar ideias em produtos que as pessoas entendem de primeira. No front-end, cuido de cada detalhe da interface; nos dados, aprendo a fazer as perguntas certas antes de escrever qualquer linha. Acredito que tecnologia boa é aquela que parece simples para quem usa.
 
