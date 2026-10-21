@@ -71,7 +71,7 @@ Crio interfaces que unem **estética e clareza**: cada detalhe pensado como uma 
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/annavrpedro16/annavrpedro16/output/campo.svg" alt="campo de contribuições"/>
+  <img width="100%" src="https://raw.githubusercontent.com/annavrpedro16/output/campo.svg" alt="campo de contribuições"/>
 </p>
 
 <img src="./assets/divisor.svg" width="100%"/>
