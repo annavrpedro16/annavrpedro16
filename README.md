@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/annavrpedro"><img src="https://img.shields.io/badge/LinkedIn-14307A?style=flat-square&logo=linkedin&logoColor=F6D55C"/></a>
   <a href="https://instagram.com/annavrpedro0816/"><img src="https://img.shields.io/badge/Instagram-1F7F86?style=flat-square&logo=instagram&logoColor=F7F2DC"/></a>
-  <a href="mailto:annavrpedro@gmail.com"><img src="https://img.shields.io/badge/E--mail-E7B53C?style=flat-square&logo=gmail&logoColor=14307A"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=annavrpedro@gmail.com"><img src="https://img.shields.io/badge/E--mail-E7B53C?style=flat-square&logo=gmail&logoColor=14307A"/></a>
   <!-- Portfólio: por enquanto leva aos seus repositórios. Quando o site estiver pronto, troco o link abaixo pelo endereço dele. -->
   <a href="https://github.com/annavrpedro16?tab=repositories"><img src="https://img.shields.io/badge/Portf%C3%B3lio-B07A22?style=flat-square&logo=googlechrome&logoColor=FFFFFF"/></a>
 </p>
